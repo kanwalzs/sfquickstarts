@@ -54,7 +54,7 @@ Key Features:
 - A GitHub Account
 - A Snowflake Account
 - Access to run Notebooks in Snowflake
-- AWS Commercial deployments (non-free trial accounts)
+- A trial account where [AWS](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/overview#available-regions) and container runtime are supported. 
 - To try Snowflake ML in a free trial, check out this [quickstart](https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/#0)
 - (Optional) [Completed Getting Started with Snowflake Notebook Container Runtime](https://quickstarts.snowflake.com/guide/notebook-container-runtime/index.html#0)
 
